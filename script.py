@@ -1,7 +1,7 @@
 # https://github.com/openai/openai-python
 from openai import OpenAI
 # replace with your own api key
-api_key = "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"
+api_key = "YOUR_OWN_KEY"
 client = OpenAI(api_key=api_key)
 
 while True:
